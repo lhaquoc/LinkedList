@@ -21,6 +21,8 @@ node_t *create_new_node(int value) {
     node_t *resullt = malloc(sizeof(node_t));
     resullt->value = value;
     resullt->next = NULL;
+    //
+
     return resullt;
 }
 
@@ -39,6 +41,6 @@ int main(void) {
     }
 
     print_list(head);
-
+    print_list(head);
     return 0;
 }
