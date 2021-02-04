@@ -4,3 +4,7 @@ obj/*
 *.o
 *.exe
 *.exe
+main.c
+LinkedList.cbp
+bin/Release/LinkedList.exe
+obj/Release/main.o
