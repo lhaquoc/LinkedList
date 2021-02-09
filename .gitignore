@@ -8,3 +8,12 @@ main.c
 LinkedList.cbp
 bin/Release/LinkedList.exe
 obj/Release/main.o
+main.dSYM/Contents/Resources/DWARF/main
+main
+.vscode/tasks.json
+C2_dynamic_array.dSYM/Contents/Info.plist
+C2_dynamic_array.dSYM/Contents/Resources/DWARF/C2_dynamic_array
+main.dSYM/Contents/Info.plist
+pointer.dSYM/Contents/Info.plist
+pointer.dSYM/Contents/Resources/DWARF/pointer
+C2_dynamic_array
